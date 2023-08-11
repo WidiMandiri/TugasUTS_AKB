@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasUTS</string>
+    <string name="i1_desc">Aplikasi ini untuk mencatat.\nGeser ke kanan untuk mengetahui lebih lengkap</string>
+    <string name="i2_desc">Aplikasi ini cukup sederhana penggunaanya.\nGeser ke kanan untuk mengetahui lebih lengkap</string>
+    <string name="i3_desc">Aplikasi ini di tugaskan untuk memenuhi UTS.</string>
+    <string name="title_activity_bottom">Bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
